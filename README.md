@@ -61,7 +61,7 @@
 
 ## 作者 Author
 
-李謦伊 CHING I LEE
+<span> - &copy; 李謦伊 CHING I LEE (<a href="https://github.com/chingi071">Github</a>) (<a href="https://medium.com/@chingi071">Medium文章</a>) </span>  
 
 
 ## 授權 License
