@@ -1,0 +1,28 @@
+{"info": {
+  "description": "Cat Dataset",
+  "url": "url",
+  "version": "1.0",
+  "year": 2022,
+  "contributor": "Ching I",
+  "date_created": "2022/11/30"
+},
+"image":[{
+  "license": 2,
+  "file_name": "cat.jpg",
+  "height": 4302,
+  "width": 3024,
+  "date_captured": "2022-11-31 12:00:00",
+  "id": 1
+}],
+"annotations": [{
+  "image_id": 1,
+  "bbox": [449,673,1968,2668],
+  "category_id": 1,
+  "id": 1
+}],
+"categories":[{
+  "supercategory": "animal",
+  "id": 1,
+  "name": "cat"
+ }]
+}
