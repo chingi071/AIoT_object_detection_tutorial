@@ -1,0 +1,27 @@
+<annotation>
+ <folder>cat_data</folder>
+ <filename>cat1.jpg</filename>
+ <source>
+  <database>The VOC2007 Database</database>
+  <annotation>PASCAL VOC2007</annotation>
+  <image>flickr</image>
+ </source>
+ <size>
+  <width>3024</width>
+  <height>4302</height>
+  <depth>3</depth>
+ </size>
+ <segmented>0</segmented>
+ <object>
+  <name>cat</name>
+  <pose>Unspecified</pose>
+  <truncated>0</truncated>
+  <difficult>0</difficult>
+  <bndbox>
+   <xmin>449</xmin>
+   <ymin>673</ymin>
+   <xmax>2417</xmax>
+   <ymax>3341</ymax>
+  </bndbox>
+ </object>
+</annotation>
